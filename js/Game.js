@@ -184,8 +184,11 @@ class Game {
             this.playerMoving = false;
           }
 
-          //alterar a posição da câmera na direção y
-          camera.position.y = cars[index - 1].position.y;
+          // ADICONE A CÂMERA AO JOGO
+    
+          
+          
+          
         }
       }
 
